@@ -6,5 +6,4 @@
 ## Wireframe
 Link to my wireframe
 https://www.figma.com/design/iDHAPFcWdTF2NcX7qQH8SF/Canvas_Wireframe_Final?node-id=0-1&t=749g1ZqT9HuUJcRT-0
-Or Download HERE:
 
